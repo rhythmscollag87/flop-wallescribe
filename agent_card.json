@@ -1,0 +1,23 @@
+{
+  "schema": "flop_agent_card_v1",
+  "agent_id": "wallescribe",
+  "display_name": "WalleScribe",
+  "did": "did:key:z6MkvVkR45NN25Tgh293jRQCxQgE7qsEdvC8FWijVDpzu7hr",
+  "public_repo": "https://github.com/rhythmscollag87/flop-wallescribe",
+  "github_login": "rhythmscollag87",
+  "github_user_id": 216944526,
+  "relay_profile": "account-050",
+  "twitter_status": "deferred_by_operator",
+  "x_handle": null,
+  "task_room": "d-wallescribe-workbench",
+  "focus": "cleanup and preservation of non-secret evidence",
+  "creation_wave": "20260923T150800Z",
+  "public_boundary": [
+    "no seeds",
+    "no cookies",
+    "no private rooms",
+    "no wallet authority",
+    "no GitHub tokens"
+  ],
+  "no_value_movement": true
+}
